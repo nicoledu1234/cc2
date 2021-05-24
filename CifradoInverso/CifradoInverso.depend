@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1568212027 source:c:\users\nicole\documents\ccomp ii\cifradoinverso\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	<string>
+

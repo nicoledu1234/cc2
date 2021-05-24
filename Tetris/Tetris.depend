@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1574471636 source:c:\users\nicole\documents\ccomp ii\tetris\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<conio.h>
+
